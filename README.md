@@ -39,20 +39,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
-</div>
-
-###
-
 <p align="left">I'm a versatile professional with a strong background in web development and a deep passion for music production. With a unique blend of technical expertise and creative flair, I thrive in bridging the gap between the digital world and the realm of music.My passion for both web development and music production allows me to bring a unique perspective to my work.</p>
 
 ###
